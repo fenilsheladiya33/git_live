@@ -11,7 +11,7 @@ var http = require('http');
 
 const mongoose = require('mongoose');
 
-mongoose.connect('mongodb+srv://fenilsheladiya2004:fenil2004@cluster0.zjhzx6l.mongodb.net/gitlive')
+mongoose.connect('mongodb+srv://fenilsheladiya3333:fenil2004@cluster0.smyypul.mongodb.net/gitlive')
   .then(() => console.log('Connected!'));
 
 /**
